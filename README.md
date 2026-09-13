@@ -4,6 +4,9 @@
 
 ---
 
+## Link of the Project (Deployed through Vercel)
+https://study-sprint-cyan.vercel.app/
+
 ##  Table of Contents
 - [Project Description](#-project-description)
 - [Features](#-features)
